@@ -1,1 +1,16 @@
-{"username":"COD3BREAK3R","id":"51484063","name":"Luis Enrique","company":"","web":"https://luisenrique.website","location":"Cuba","email":"contacto@luisenrique.website","hireable":true,"bio":"He programado sitios web para diferentes clientes, tengo experiencia con las siguientes tecnologías: HTML, CSS, SASS, JavaScript, React, Laravel, PHP, MySQL, etcétera. Visita mi web personal para más información: https://luisenrique.website","twitter_username":"","headline":"","linkedin_username":"","telegram_username":"@HACKERMATR1X","categories":[]}
+{
+    "username": "COD3BREAK3R",
+    "id": "51484063",
+    "name": "Luis Enrique",
+    "company": "",
+    "web": "https://luisenrique.website",
+    "location": "Cuba",
+    "email": "contacto@luisenrique.website",
+    "hireable": true,
+    "bio": "Desarrollador Web Full Stack con Experiencia como Freelance. Capaz de crear sitios webs optimizados y con un excelente rendimiento, teniendo en cuentas Medidas de Seguridad para evitar Inyecciones SQL, Ataques CSRF, XSS, etc y con una excelente experiencia de usuario para más información y ver mis trabajos vista: https://luisenrique.website",
+    "twitter_username": "",
+    "headline": "Freelance Full-Stack Web Developer",
+    "linkedin_username": "luis-enrique-ferrer-1889851b4",
+    "telegram_username": "@HACKERMATR1X",
+    "categories": ["Full Stack Developer", "Freelancer", "Front-end Developer", "Back-end Developer"]
+}
